@@ -1,0 +1,14 @@
+C:\Users\Pipe\Desktop\jiji\bin\Debug\net8.0\jiji.exe
+C:\Users\Pipe\Desktop\jiji\bin\Debug\net8.0\jiji.deps.json
+C:\Users\Pipe\Desktop\jiji\bin\Debug\net8.0\jiji.runtimeconfig.json
+C:\Users\Pipe\Desktop\jiji\bin\Debug\net8.0\jiji.dll
+C:\Users\Pipe\Desktop\jiji\bin\Debug\net8.0\jiji.pdb
+C:\Users\Pipe\Desktop\jiji\obj\Debug\net8.0\jiji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pipe\Desktop\jiji\obj\Debug\net8.0\jiji.AssemblyInfoInputs.cache
+C:\Users\Pipe\Desktop\jiji\obj\Debug\net8.0\jiji.AssemblyInfo.cs
+C:\Users\Pipe\Desktop\jiji\obj\Debug\net8.0\jiji.csproj.CoreCompileInputs.cache
+C:\Users\Pipe\Desktop\jiji\obj\Debug\net8.0\jiji.dll
+C:\Users\Pipe\Desktop\jiji\obj\Debug\net8.0\refint\jiji.dll
+C:\Users\Pipe\Desktop\jiji\obj\Debug\net8.0\jiji.pdb
+C:\Users\Pipe\Desktop\jiji\obj\Debug\net8.0\jiji.genruntimeconfig.cache
+C:\Users\Pipe\Desktop\jiji\obj\Debug\net8.0\ref\jiji.dll
