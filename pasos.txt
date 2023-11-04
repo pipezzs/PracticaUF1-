@@ -1,0 +1,13 @@
+1) Genera un repositorio de GitHub con el nombre PracticaUF1 y sincronizalo con tu carpeta local
+
+Ya lo sincronice
+
+
+Codifica un programa sencillo en C# y realiza los commits y actualizaciones necesarias en el repositorio remoto con comentarios descriptivos. Explica con tus propias palabras cual es el proceso para llevar a cabo estas acciones. 
+
+Hice un programa que decia "Hola Marc", luego lo converti en ejecutable con dotnet build; como ya termina la carpeta sincronizada solo meti la carpeta del c# y en git bash puse git add ., git commit -m "uf1" y git push origin main
+
+
+compila el programa y sube el .exe al repositorio
+
+ya esta subido :)
